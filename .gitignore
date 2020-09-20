@@ -1,0 +1,7 @@
+﻿
+*/**bin
+/obj
+/fonte/escoladebora/bin
+/fonte/escoladebora/obj
+*/**.vs
+*/**/packages
